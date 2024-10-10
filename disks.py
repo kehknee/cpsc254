@@ -1,3 +1,5 @@
+# Kenneth Tran
+
 def left_to_right(n, disks):
     counter = 0  # Counter for amount of swaps done
 
